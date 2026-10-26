@@ -111,6 +111,7 @@ export default function App() {
           <div>
             <h1>智能任务管理</h1>
             <p className="sub">数据存在 Supabase 云端，关掉浏览器也不会丢</p>
+            <p className="author">liguangyu</p>
           </div>
           <div className="stat">
             <strong>{tasks.length - doneCount}</strong>
@@ -226,7 +227,7 @@ export default function App() {
           </button>
         </footer>
       </main>
-      <p className="brand">Node.js + React + Supabase</p>
+      <p className="brand">liguangyu · Node.js + React + Supabase</p>
     </div>
   )
 }

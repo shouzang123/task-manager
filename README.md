@@ -1,5 +1,7 @@
 # 智能任务管理系统
 
+作者：liguangyu
+
 Node.js 后端 + React 前端 + Supabase 数据库，可以直接部署到 Vercel。
 
 ---
