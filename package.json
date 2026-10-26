@@ -1,9 +1,9 @@
 {
-  "name": "task-manager",
+  "name": "liguangyu-task-manager",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "智能任务管理系统 - Node.js + React + Supabase",
+  "description": "智能任务管理系统 - Node.js + React + Supabase（liguangyu）",
   "scripts": {
     "dev": "concurrently -n 后端,前端 -c cyan,magenta \"node --watch server/index.js\" \"vite\"",
     "build": "vite build",
